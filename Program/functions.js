@@ -18,7 +18,7 @@ function function_Name()){
 console.log("Useing Function");
 function avg (p1,p2){
     console.log('Done');
-    return Math.round((a+b)/3);
+    return Math.round((p1+p2)/2);
 }
 console.log("Average of a and b is :"+avg(a,b));
 
