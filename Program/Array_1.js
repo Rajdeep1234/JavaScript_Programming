@@ -15,3 +15,5 @@ for(let i=0;i<length;i++){
 }
 console.log(typeof(array));
 console.log(array);
+
+
