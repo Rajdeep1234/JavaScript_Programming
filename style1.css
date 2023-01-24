@@ -23,9 +23,16 @@ body{
     border-radius: 30px;
     font-size: 50px;
     font-style: italic;
+    cursor: pointer;
 }
 
 .heading:hover{
     background-color: white;
     color: black;
+    
+}
+.card{
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 30px;
 }
