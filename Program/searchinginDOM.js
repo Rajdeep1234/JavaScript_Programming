@@ -21,3 +21,5 @@ console.log(ctitle);
 document.querySelector(".btn-primary").style.color="black";// It select the first element
 
 console.log(document.body.getElementsByTagName("a"));
+
+
